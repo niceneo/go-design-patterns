@@ -1,0 +1,17 @@
+## 设计模式
+#### 分类方法
+1. 根据目的来分类
+  a.创建型模式: 用于描述  “怎么样创建对象”，将对象的创建与使用进行分离
+    单例模式：Singleton Design Pattern
+    工厂模式：Factory Design Pattern
+    创建者模式：Builder Design Pattern
+    原型模式：Prototype Design Pattern
+  b.结构型模式： 用于描述如何将类或对象按某种布局组成更大的结构
+    代理模式：Proxy Design Pattern
+    桥接模式：Bridge Design Pattern
+    适配器模式：Adapter Design Pattern
+    门面模式：Facade Design Pattern
+  c.行为型模式：用于描述类或对象之间怎样相互协作共同完成单个对象都无法单独完成的任务，以及怎样分配职责
+2. 根据作用范围分类
+  a.类模式：用于处理类与子类之间的关系，这些关系通过继承来建立，是静态的，在编译时刻便确定下下来
+  b.对象模式：用于处理对象之间的关系，这些关系跨越通过组合或聚合来实现，在运行时刻是可以动态变化的更具动态性
