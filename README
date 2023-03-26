@@ -11,7 +11,20 @@
     桥接模式：Bridge Design Pattern
     适配器模式：Adapter Design Pattern
     门面模式：Facade Design Pattern
+    组合模式：Composite Design Pattern
+    享元模式：Flyweight Design Pattern
   c.行为型模式：用于描述类或对象之间怎样相互协作共同完成单个对象都无法单独完成的任务，以及怎样分配职责
+    观察者模式：Observer Design Pattern
+    模板模式：Template Method Design Pattern
+    策略模式：Strategy Method Design Pattern
+    职责链模式：Chain Of Responsibility Design Pattern
+    状态模式：State Design Pattern
+    迭代器模式：Iterator Design Pattern
+    访问者模式：Visitor Design Pattern
+    备忘录模式：Memento Design Pattern
+    命令模式：Command Design Pattern
+    解释器模式：Interpreter Design Pattern
+    中介模式：Mediator Design Pattern
 2. 根据作用范围分类
   a.类模式：用于处理类与子类之间的关系，这些关系通过继承来建立，是静态的，在编译时刻便确定下下来
   b.对象模式：用于处理对象之间的关系，这些关系跨越通过组合或聚合来实现，在运行时刻是可以动态变化的更具动态性
